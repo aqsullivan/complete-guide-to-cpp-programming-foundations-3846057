@@ -1,5 +1,5 @@
 // Complete Guide to C++ Programming Foundations
-// Exercise 02_08
+// Exercise 02_08 with modifications
 // Enumerations, by Eduardo Corpeño 
 
 #include <iostream>
